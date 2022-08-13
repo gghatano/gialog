@@ -28,9 +28,9 @@ export default function Layout({ children }: { children: ReactNode }) {
         <nav>
           <ul className="flex flex-row gap-6 justify-center">
             <li>
-              <Link href="/">
+              <Link href="https://github.com/gghatano/gialog">
                 <a className="text-gray-900 visited:text-gray-900 dark:text-gray-300 dark:visited:text-gray-300">
-                  Home
+                  Repository
                 </a>
               </Link>
             </li>

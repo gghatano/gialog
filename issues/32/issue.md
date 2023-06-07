@@ -1,0 +1,63 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 0
+comments_url: https://api.github.com/repos/gghatano/gialog/issues/32/comments
+created_at: '2023-01-14T00:53:54Z'
+events_url: https://api.github.com/repos/gghatano/gialog/issues/32/events
+html_url: https://github.com/gghatano/gialog/issues/32
+id: 1533070263
+labels: []
+labels_url: https://api.github.com/repos/gghatano/gialog/issues/32/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOH0C-AM5bYMu3
+number: 32
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/gghatano/gialog/issues/32/reactions
+repository_url: https://api.github.com/repos/gghatano/gialog
+state: open
+state_reason: 
+timeline_url: https://api.github.com/repos/gghatano/gialog/issues/32/timeline
+title: 頑張れ
+updated_at: '2023-01-14T00:53:54Z'
+url: https://api.github.com/repos/gghatano/gialog/issues/32
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/5264958?v=4
+  events_url: https://api.github.com/users/gghatano/events{/privacy}
+  followers_url: https://api.github.com/users/gghatano/followers
+  following_url: https://api.github.com/users/gghatano/following{/other_user}
+  gists_url: https://api.github.com/users/gghatano/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/gghatano
+  id: 5264958
+  login: gghatano
+  node_id: MDQ6VXNlcjUyNjQ5NTg=
+  organizations_url: https://api.github.com/users/gghatano/orgs
+  received_events_url: https://api.github.com/users/gghatano/received_events
+  repos_url: https://api.github.com/users/gghatano/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/gghatano/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/gghatano/subscriptions
+  type: User
+  url: https://api.github.com/users/gghatano
+
+---
+他社の人だから正直どうでもいいけど、何も勉強していないSEの人がいたので、とりあえず基本情報をオススメしてみた。
+
+特に会社や上司からは言われていないです、って返答されたので、上司の方に確認して貰ったら、
+
+基本情報技術者の資格は、昇格の条件であることが判明した。
